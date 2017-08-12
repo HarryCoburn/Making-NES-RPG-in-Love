@@ -1,4 +1,4 @@
-# Making-NES-RPG-in-Love
+# Making an NES RPG in Love
 An ongoing tutorial of how to make an NES-Era RPG in Love
 
 This is an attempt to remedy a problem I saw for training game developers. New game developers are often tasked with creating some very basic game types to learn their craft and their engine. These include games like:
@@ -23,3 +23,6 @@ Simplicity. RPGs have gotten more and more complex over time, just like all the 
 
 Love2D is a 2D engine for the Lua language. Lua is used in many scripting languages found in modern games and it is quite easy to pick up. I use Linux, so some Lua-based SDKs are out for me and, frankly, I like writing in Love2D. That said, you can take the principles out of this guide and likely apply them to other engines. You'll just have to transfer them out of Love's way of doing things.
 
+# What will you need?
+
+Right now you'll need an installation of Love and some form of editor. Love can be found at http://www.love2d.org. Ideally, you should be able to complete the Hello, World example for Love and be able to try a few of the other tutorials. Lua itself can be learned at http://www.lua.org/start.html or from many other tutorials online.
